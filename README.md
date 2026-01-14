@@ -48,13 +48,6 @@ I believe good software is not just about *making it work*, but about **making i
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code)
 ![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse)
 
----
-
-## 📊 GitHub Activity
-
-![](https://github-readme-stats.vercel.app/api?username=clashingera&theme=dark&hide_border=true)
-![](https://nirzak-streak-stats.vercel.app/?user=clashingera&theme=dark&hide_border=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=clashingera&layout=compact&theme=dark&hide_border=true)
 
 ---
 
